@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Battle City</string>
+    <string name="title_activity_main">Game</string>
+    <string name="restore">restore game</string>
+    <string name="exit">exit</string>
+    <string name="restore_new_game">restart game</string>
+    <string name="new_game">New game</string>
+    <string name="levels">Level</string>
+    <string name="high_score">High score</string>
+    <string name="menu_exit">Exit</string>
+</resources>

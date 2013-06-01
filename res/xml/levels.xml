@@ -1,0 +1,284 @@
+<resources>
+    <levels>
+        <level id="1">
+            <field width="17" heidth="17" type="1" totalbotcount="3" sametimebot="5">
+                <bricks>
+                    <brick x="0" y="0" type="1"></brick>
+                    <brick x="0" y="1" type="1"></brick>
+                    <brick x="0" y="2" type="1"></brick>
+                    <brick x="0" y="3" type="1"></brick>
+                    <brick x="0" y="4" type="1"></brick>
+                    <brick x="0" y="5" type="1"></brick>
+                    <brick x="0" y="6" type="1"></brick>
+                    <brick x="0" y="7" type="1"></brick>
+                    <brick x="0" y="8" type="1"></brick>
+                    <brick x="0" y="9" type="1"></brick>
+                    <brick x="0" y="10" type="1"></brick>
+                    <brick x="0" y="11" type="1"></brick>
+                    <brick x="0" y="12" type="1"></brick>
+                    <brick x="0" y="13" type="1"></brick>
+                    <brick x="0" y="14" type="1"></brick>
+                    <brick x="0" y="15" type="1"></brick>
+                    <brick x="0" y="16" type="1"></brick>
+                    <brick x="16" y="0" type="1"></brick>
+                    <brick x="16" y="1" type="1"></brick>
+                    <brick x="16" y="2" type="1"></brick>
+                    <brick x="16" y="3" type="1"></brick>
+                    <brick x="16" y="4" type="1"></brick>
+                    <brick x="16" y="5" type="1"></brick>
+                    <brick x="16" y="6" type="1"></brick>
+                    <brick x="16" y="7" type="1"></brick>
+                    <brick x="16" y="8" type="1"></brick>
+                    <brick x="16" y="9" type="1"></brick>
+                    <brick x="16" y="10" type="1"></brick>
+                    <brick x="16" y="11" type="1"></brick>
+                    <brick x="16" y="12" type="1"></brick>
+                    <brick x="16" y="13" type="1"></brick>
+                    <brick x="16" y="14" type="1"></brick>
+                    <brick x="16" y="15" type="1"></brick>
+                    <brick x="16" y="16" type="1"></brick>
+                    <brick x="1" y="0" type="1"></brick>
+                    <brick x="2" y="0" type="1"></brick>
+                    <brick x="3" y="0" type="1"></brick>
+                    <brick x="4" y="0" type="1"></brick>
+                    <brick x="5" y="0" type="1"></brick>
+                    <brick x="6" y="0" type="1"></brick>
+                    <brick x="7" y="0" type="1"></brick>
+                    <brick x="8" y="0" type="1"></brick>
+                    <brick x="9" y="0" type="1"></brick>
+                    <brick x="10" y="0" type="1"></brick>
+                    <brick x="11" y="0" type="1"></brick>
+                    <brick x="12" y="0" type="1"></brick>
+                    <brick x="13" y="0" type="1"></brick>
+                    <brick x="14" y="0" type="1"></brick>
+                    <brick x="15" y="0" type="1"></brick>
+                    <brick x="3" y="10"></brick>
+                    <brick x="4" y="10"></brick>
+                    <brick x="5" y="10"></brick>
+                    <brick x="6" y="10"></brick>
+                    <brick x="7" y="10"></brick>
+                    <brick x="11" y="10"></brick>
+                    <brick x="12" y="10"></brick>
+                    <brick x="13" y="10"></brick>
+                    <brick x="8" y="10" type="2"></brick>
+                    <brick x="9" y="10" type="2"></brick>
+                    <brick x="10" y="10" type="2"></brick>
+                    <brick x="1" y="16" type="1"></brick>
+                    <brick x="2" y="16" type="1"></brick>
+                    <brick x="3" y="16" type="1"></brick>
+                    <brick x="4" y="16" type="1"></brick>
+                    <brick x="5" y="16" type="1"></brick>
+                    <brick x="6" y="16" type="1"></brick>
+                    <brick x="7" y="16" type="1"></brick>
+                    <brick x="8" y="16" type="1"></brick>
+                    <brick x="9" y="16" type="1"></brick>
+                    <brick x="10" y="16" type="1"></brick>
+                    <brick x="11" y="16" type="1"></brick>
+                    <brick x="12" y="16" type="1"></brick>
+                    <brick x="13" y="16" type="1"></brick>
+                    <brick x="14" y="16" type="1"></brick>
+                    <brick x="15" y="16" type="1"></brick>
+                    <brick x="7" y="15" type="99"></brick>
+                    <brick x="6" y="15"></brick>
+                    <brick x="8" y="15"></brick>
+                    <brick x="7" y="14"></brick>
+                </bricks>
+            </field>
+        </level>
+        <level id="2">
+            <field heidth="17" width="17" type="2" totalbotcount="20" sametimebot="5">
+                <bricks>
+                    <brick x="0" y="0" type="1"></brick>
+                    <brick x="0" y="1" type="1"></brick>
+                    <brick x="0" y="2" type="1"></brick>
+                    <brick x="0" y="3" type="1"></brick>
+                    <brick x="0" y="4" type="1"></brick>
+                    <brick x="0" y="5" type="1"></brick>
+                    <brick x="0" y="6" type="1"></brick>
+                    <brick x="0" y="7" type="1"></brick>
+                    <brick x="0" y="8" type="1"></brick>
+                    <brick x="0" y="9" type="1"></brick>
+                    <brick x="0" y="10" type="1"></brick>
+                    <brick x="0" y="11" type="1"></brick>
+                    <brick x="0" y="12" type="1"></brick>
+                    <brick x="0" y="13" type="1"></brick>
+                    <brick x="0" y="14" type="1"></brick>
+                    <brick x="0" y="15" type="1"></brick>
+                    <brick x="0" y="16" type="1"></brick>
+                    <brick x="16" y="0" type="1"></brick>
+                    <brick x="16" y="1" type="1"></brick>
+                    <brick x="16" y="2" type="1"></brick>
+                    <brick x="16" y="3" type="1"></brick>
+                    <brick x="16" y="4" type="1"></brick>
+                    <brick x="16" y="5" type="1"></brick>
+                    <brick x="16" y="6" type="1"></brick>
+                    <brick x="16" y="7" type="1"></brick>
+                    <brick x="16" y="8" type="1"></brick>
+                    <brick x="16" y="9" type="1"></brick>
+                    <brick x="16" y="10" type="1"></brick>
+                    <brick x="16" y="11" type="1"></brick>
+                    <brick x="16" y="12" type="1"></brick>
+                    <brick x="16" y="13" type="1"></brick>
+                    <brick x="16" y="14" type="1"></brick>
+                    <brick x="16" y="15" type="1"></brick>
+                    <brick x="16" y="16" type="1"></brick>
+                    <brick x="1" y="0" type="1"></brick>
+                    <brick x="2" y="0" type="1"></brick>
+                    <brick x="3" y="0" type="1"></brick>
+                    <brick x="4" y="0" type="1"></brick>
+                    <brick x="5" y="0" type="1"></brick>
+                    <brick x="6" y="0" type="1"></brick>
+                    <brick x="7" y="0" type="1"></brick>
+                    <brick x="8" y="0" type="1"></brick>
+                    <brick x="9" y="0" type="1"></brick>
+                    <brick x="10" y="0" type="1"></brick>
+                    <brick x="11" y="0" type="1"></brick>
+                    <brick x="12" y="0" type="1"></brick>
+                    <brick x="13" y="0" type="1"></brick>
+                    <brick x="14" y="0" type="1"></brick>
+                    <brick x="15" y="0" type="1"></brick>
+                    <brick x="3" y="10" type="2"></brick>
+                    <brick x="4" y="10" type="2"></brick>
+                    <brick x="5" y="10" type="2"></brick>
+                    <brick x="6" y="10" type="2"></brick>
+                    <brick x="7" y="10" type="2"></brick>
+                    <brick x="11" y="10" type="2"></brick>
+                    <brick x="12" y="10" type="2"></brick>
+                    <brick x="13" y="10" type="2"></brick>
+                    <brick x="8" y="10" type="2"></brick>
+                    <brick x="9" y="10" type="2"></brick>
+                    <brick x="10" y="10" type="2"></brick>
+                    <brick x="1" y="16" type="1"></brick>
+                    <brick x="2" y="16" type="1"></brick>
+                    <brick x="3" y="16" type="1"></brick>
+                    <brick x="4" y="16" type="1"></brick>
+                    <brick x="5" y="16" type="1"></brick>
+                    <brick x="6" y="16" type="1"></brick>
+                    <brick x="7" y="16" type="1"></brick>
+                    <brick x="8" y="16" type="1"></brick>
+                    <brick x="9" y="16" type="1"></brick>
+                    <brick x="10" y="16" type="1"></brick>
+                    <brick x="11" y="16" type="1"></brick>
+                    <brick x="12" y="16" type="1"></brick>
+                    <brick x="13" y="16" type="1"></brick>
+                    <brick x="14" y="16" type="1"></brick>
+                    <brick x="15" y="16" type="1"></brick>
+                    <brick x="7" y="15" type="99"></brick>
+                    <brick x="6" y="15"></brick>
+                    <brick x="8" y="15"></brick>
+                    <brick x="7" y="14"></brick>
+                    <brick x="3" y="5"></brick>
+                    <brick x="4" y="5"></brick>
+                    <brick x="5" y="5"></brick>
+                    <brick x="6" y="5"></brick>
+                    <brick x="7" y="5"></brick>
+                    <brick x="8" y="5"></brick>
+                    <brick x="9" y="5"></brick>
+                    <brick x="10" y="5"></brick>
+                    <brick x="11" y="5"></brick>
+                    <brick x="12" y="5"></brick>
+                    <brick x="13" y="5"></brick>
+                </bricks>
+            </field>
+        </level> 
+        <level id="3">
+            <field heidth="17" width="17" type="1">
+                <bricks>
+                    <brick x="1" y="1"></brick>
+                    <brick x="1" y="2"></brick>
+                    <brick x="1" y="3"></brick>
+                    <brick x="1" y="4"></brick>
+                    <brick x="1" y="5"></brick>
+                    <brick x="1" y="6"></brick>
+                    <brick x="1" y="7"></brick>
+                    <brick x="8" y="16"></brick>
+                    <brick x="8" y="16"></brick>
+                    <brick x="9" y="16"></brick>
+                    <brick x="10" y="16"></brick>
+                    <brick x="10" y="16"></brick>
+                </bricks>
+            </field>
+        </level>
+        <level id="4">
+            <field heidth="17" width="17" type="2">
+                <bricks>
+                    <brick x="1" y="1"></brick>
+                    <brick x="1" y="2"></brick>
+                    <brick x="1" y="3"></brick>
+                    <brick x="1" y="4"></brick>
+                    <brick x="1" y="5"></brick>
+                    <brick x="1" y="6"></brick>
+                    <brick x="1" y="7"></brick>
+                    <brick x="8" y="15"></brick>
+                    <brick x="8" y="16"></brick>
+                    <brick x="9" y="16"></brick>
+                    <brick x="10" y="16"></brick>
+                    <brick x="10" y="16"></brick>
+                </bricks>
+            </field>
+        </level><level id="5">
+            <field heidth="17" width="17" type="1">
+                <bricks>
+                    <brick x="1" y="1"></brick>
+                    <brick x="1" y="2"></brick>
+                    <brick x="1" y="3"></brick>
+                    <brick x="1" y="4"></brick>
+                    <brick x="1" y="5"></brick>
+                    <brick x="1" y="6"></brick>
+                    <brick x="1" y="7"></brick>
+                    <brick x="8" y="10"></brick>
+                    <brick x="8" y="16"></brick>
+                    <brick x="9" y="16"></brick>
+                    <brick x="10" y="16"></brick>
+                    <brick x="10" y="16"></brick>
+                </bricks>
+            </field>
+        </level>
+        <level id="6">
+            <field heidth="17" width="17" type="2">
+                <bricks>
+                    <brick x="1" y="1"></brick>
+                    <brick x="1" y="2"></brick>
+                    <brick x="1" y="3"></brick>
+                    <brick x="1" y="4"></brick>
+                    <brick x="1" y="5"></brick>
+                    <brick x="1" y="6"></brick>
+                    <brick x="1" y="7"></brick>
+                    <brick x="8" y="15"></brick>
+                    <brick x="8" y="16"></brick>
+                    <brick x="9" y="16"></brick>
+                    <brick x="10" y="16"></brick>
+                    <brick x="10" y="16"></brick>
+                </bricks>
+            </field>
+        </level> <level id="7">
+            <field heidth="17" width="17" type="1">
+                <bricks>
+                    <brick x="1" y="1"></brick>
+                    <brick x="1" y="2"></brick>
+                    <brick x="1" y="3"></brick>
+                    <brick x="1" y="4"></brick>
+                    <brick x="1" y="5"></brick>
+                    <brick x="1" y="6"></brick>
+                    <brick x="1" y="7"></brick>
+                </bricks>
+            </field>
+        </level>
+        <level id="8">
+            <field heidth="17" width="17" type="2">
+                <bricks>
+                    <brick x="1" y="1"></brick>
+                    <brick x="1" y="2"></brick>
+                    <brick x="1" y="3"></brick>
+                    <brick x="1" y="4"></brick>
+                    <brick x="1" y="5"></brick>
+                    <brick x="1" y="6"></brick>
+                    <brick x="1" y="7"></brick>
+                    <brick x="8" y="16"></brick>
+                    <brick x="9" y="16"></brick>
+                    <brick x="10" y="16"></brick>
+                </bricks>
+            </field>
+        </level>
+    </levels>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Battle City</string>
+    <string name="title_activity_main">Game</string>
+    <string name="restore">возобновить игру</string>
+    <string name="exit">закончить игру</string>
+    <string name="new_game">Новая игра</string>
+    <string name="levels">Выбрать уровень</string>
+    <string name="high_score">Таблица рекордов</string>
+    <string name="menu_exit">Выход</string>
+</resources>
