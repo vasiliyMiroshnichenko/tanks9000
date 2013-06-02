@@ -103,6 +103,7 @@ public class Bot extends BaseVehicle {
         }
     }
 
+
 	public void shot() {
 		if (System.currentTimeMillis() - shotTime > RELOAD_TIME) {
 			float xCorrection = 0, yCorrection = 0;

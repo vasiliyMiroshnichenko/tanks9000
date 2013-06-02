@@ -98,6 +98,7 @@ public class Battlefield {
 			arl.add(entity.getSprite());
 		}
 
+
 		arl.add(player.getSprite());
 		return arl;
 	}
