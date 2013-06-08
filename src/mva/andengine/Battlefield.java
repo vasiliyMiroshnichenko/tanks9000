@@ -48,8 +48,6 @@ public class Battlefield {
 
 	private Track track;
 
-	//public static final LinkedList<Bot> botPool = new LinkedList<Bot>();
-
 	public static float maxField = 1500;
 
 	public Battlefield(GameScene gs, int level) {
@@ -62,12 +60,8 @@ public class Battlefield {
 
 		width = widthBlock * Block.SIZE;
 		height = heightBlock * Block.SIZE;
-        //TODO
-		defaultX = height - GameActivity.CAMERA_HEIGHT;
-		defaultY = width / 2 - GameActivity.CAMERA_WIDTH / 2;
 
 		background = new Sprite(x, y, width, height, GfxAssets.getField(parser.getFieldType()));
-
         player = new Vehicle(this);
 
 		for (Cube cube : parser.getBricks()) {
@@ -75,9 +69,9 @@ public class Battlefield {
 			    blocks.add(new Brick(cube.x, cube.y));
             } else if(cube.type == Stone.CODE){
                 blocks.add(new Stone(cube.x,cube.y));
-            }else if(cube.type == Eagle.CODE){
+            } else if(cube.type == Eagle.CODE){
                 blocks.add(new Eagle(cube.x,cube.y,player,this)) ;
-            }else if(cube.type == Water.CODE){
+            } else if(cube.type == Water.CODE){
                 blocks.add(new Water(cube.x,cube.y)) ;
             }
 		}
