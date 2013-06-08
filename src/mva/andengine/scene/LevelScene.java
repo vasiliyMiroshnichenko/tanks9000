@@ -72,29 +72,5 @@ public class LevelScene extends CameraScene implements ISwitchableScene {
 		setIgnoreUpdate(true);
 	}
 
-	public class LevelButton extends Sprite {
-		private Text text;
-		public final static float SIZE = 50;
-		private final int level;
-
-		// TODO size
-		public LevelButton(int num, float pX, float pY) {
-			super(pX, pY, SIZE, SIZE, GfxAssets.lvlbutton);
-
-			level = num;
-			if (num > 9)
-				text = new Text(SIZE / 4, SIZE / 4, GfxAssets.levelFont, String.valueOf(num));
-			else
-				text = new Text(SIZE / 3, SIZE / 4, GfxAssets.levelFont, String.valueOf(num));
-			attachChild(text);
-		}
-
-		@Override
-		public boolean onAreaTouched(TouchEvent pSceneTouchEvent, float pTouchAreaLocalX, float pTouchAreaLocalY) {
-			mainState.ShowGameScene(level);
-			return super.onAreaTouched(pSceneTouchEvent, pTouchAreaLocalX, pTouchAreaLocalY);
-		}
-
-	}
 
 }

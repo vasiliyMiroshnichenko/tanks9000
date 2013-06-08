@@ -76,7 +76,6 @@ public class MainMenuScene extends CameraScene implements ISwitchableScene {
 
             }
         });
-
 	}
 
 	public void hide() {

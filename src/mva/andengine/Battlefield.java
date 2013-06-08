@@ -293,7 +293,6 @@ public class Battlefield {
 
     private void nextLevel(){
         gameScene.nextLevel();
-        //
     }
 
     public void unpause() {
