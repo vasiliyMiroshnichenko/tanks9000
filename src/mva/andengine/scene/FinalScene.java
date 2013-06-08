@@ -54,7 +54,6 @@ public class FinalScene extends MenuScene {
 
         setMenuAnimator(new AlphaMenuAnimator());
         buildAnimations();
-                                 ///
         setBackgroundEnabled(false);
     }
     public void show() {
