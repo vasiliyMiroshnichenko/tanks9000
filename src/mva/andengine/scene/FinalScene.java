@@ -49,13 +49,12 @@ public class FinalScene extends MenuScene {
             }
         };
 
-
         addMenuItem(item);
         addMenuItem(item2);
 
         setMenuAnimator(new AlphaMenuAnimator());
         buildAnimations();
-
+                                 ///
         setBackgroundEnabled(false);
     }
     public void show() {

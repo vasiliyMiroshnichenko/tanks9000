@@ -26,7 +26,7 @@ public class PauseScene extends MenuScene {
         super(Refer._this.mCamera);
 
         _gameScene = gameScene;
-
+       //
         Refer._this.runOnUpdateThread(new Runnable() {
             @Override
             public void run() {
