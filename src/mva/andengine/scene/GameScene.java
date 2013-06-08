@@ -223,6 +223,13 @@ public class GameScene extends Scene implements ISwitchableScene {
 
     public void pause() {
         if(!bf.PAUSE){
+            Refer._this.runOnUpdateThread(new Runnable() {
+                @Override
+                public void run() {
+                    Refer._this.mCamera.reset();
+
+                }
+            });
             setChildScene(new PauseScene(this), false, true, true);
             bf.setPause();
         }
@@ -231,9 +238,9 @@ public class GameScene extends Scene implements ISwitchableScene {
     public void finishDialog(){
         Refer._this.runOnUpdateThread(new Runnable() {
             @Override
-            public void run() {   //
-                //Refer._this.mCamera.reset();
-                //Refer._this.mCamera.setCenter(GameActivity.CAMERA_WIDTH / 2, GameActivity.CAMERA_HEIGHT / 2);
+            public void run() {
+                Refer._this.mCamera.reset();
+                Refer._this.mCamera.setCenter(GameActivity.CAMERA_WIDTH / 2, GameActivity.CAMERA_HEIGHT / 2);
             }
         });
         GameActivity.recordDS.open();
@@ -243,7 +250,6 @@ public class GameScene extends Scene implements ISwitchableScene {
         setChildScene(new FinalScene(this), false, true, true);
     }
     public void botKill(Bot vh){
-        //
         points += vh.WORTH;
         score.setText(points+"");
     }

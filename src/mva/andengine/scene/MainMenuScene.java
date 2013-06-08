@@ -67,15 +67,15 @@ public class MainMenuScene extends CameraScene implements ISwitchableScene {
 	public void show() {
 		setVisible(true);
 		setIgnoreUpdate(false);
-		setPosition(Refer._this.mCamera.getMinX(), Refer._this.mCamera.getMinY());
+		//setPosition(Refer._this.mCamera.getMinX(), Refer._this.mCamera.getMinY());
 		//Refer._this.mCamera.reset();
-		Refer._this.runOnUpdateThread(new Runnable() {
-			@Override
-			public void run() {
-				setPosition(Refer._this.mCamera.getMinX(), Refer._this.mCamera.getMinY());
+        Refer._this.runOnUpdateThread(new Runnable() {
+            @Override
+            public void run() {
+                setPosition(Refer._this.mCamera.getMinX(), Refer._this.mCamera.getMinY());
 
-			}
-		});
+            }
+        });
 	}
 
 	public void hide() {

@@ -1,7 +1,7 @@
 <resources>
 
     <string name="app_name">Battle City</string>
-    <string name="title_activity_main">Game</string>
+    <string name="title_activity_main">TheGame</string>
     <string name="restore">возобновить игру</string>
     <string name="restore_new_game">начать заново</string>
     <string name="exit">закончить игру</string>

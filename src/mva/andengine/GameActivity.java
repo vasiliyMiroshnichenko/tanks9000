@@ -23,11 +23,13 @@ public class GameActivity extends BaseGameActivity {
 	public static MainState mainState;
     public static RecordDataSource recordDS;
 
+
 	private static ScreenOrientation _orientation = ScreenOrientation.LANDSCAPE;
 
     public GameActivity(){
         recordDS  = new RecordDataSource(this);
     }
+
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
