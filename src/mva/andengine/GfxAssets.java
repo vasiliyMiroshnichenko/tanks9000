@@ -74,9 +74,7 @@ public class GfxAssets {
 
 		bullet = BitmapTextureAtlasTextureRegionFactory.createFromAsset(Texture1, Refer._this, "bullet.png", 50, 100);
 		button = BitmapTextureAtlasTextureRegionFactory.createFromAsset(Texture1, Refer._this, "button.png", 0, 100);
-        lvlbutton = BitmapTextureAtlasTextureRegionFactory.createFromAsset(Texture1, Refer._this, "lvlButton.png", 0,
-                200);
-        blow = BitmapTextureAtlasTextureRegionFactory.createFromAsset(Texture1, Refer._this, "blow.png", 250, 0);
+
 
 		greenField = BitmapTextureAtlasTextureRegionFactory.createFromAsset(TextureField, Refer._this, "bf.jpg", 0, 0);
 		sandField = BitmapTextureAtlasTextureRegionFactory
